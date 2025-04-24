@@ -1,6 +1,6 @@
 let firstCard = 11
 let secondCard = 4
-let cards = [firstCard, secondCard]  // array-an  ordered list  of items 
+let cards = [firstCard, secondCard]  // array-an  ordered  list  of items 
 let sum = firstCard + secondCard
 let hasBlackJack = false
 let isAlive = true
